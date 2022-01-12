@@ -2,7 +2,8 @@
  
 #include <iostream>
 
-int main() {
+int main() 
+ {
     std::cout << "Hello World!";
 //prints Hello World
     return 0;
